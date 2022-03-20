@@ -40,4 +40,4 @@ Please develop a dashboard that we can present to the client at our next meeting
 
 `Solution` : [Insert Tableau Here]
 
-`All the codes` : (Notebook)[https://github.com/SanjayShetty01/KPMG-Data-Analytics-Virtual-Experience-Program/blob/main/KPMG.ipynb]
+`All the codes` : [Notebook](https://github.com/SanjayShetty01/KPMG-Data-Analytics-Virtual-Experience-Program/blob/main/KPMG.ipynb)
