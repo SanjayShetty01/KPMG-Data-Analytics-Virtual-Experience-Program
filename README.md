@@ -24,15 +24,20 @@ You decide to start the preliminary data exploration and identify ways to improv
 
 *Note: Sprocket Central Pty Ltd is fictional company named for the purpose of this project*
 
+`Solution` : [Email](https://github.com/SanjayShetty01/KPMG-Data-Analytics-Virtual-Experience-Program/blob/main/Task-1/KPMG.pdf)
+
 
 
 ### Task 2 : Data Insights
 
 Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, please recommend which of these 1000 new customers should be targeted to drive the most value for the organisation. 
 
+`Solution`: [insert .pptx file here]
 
 ### Task 3: Data Insights and Presentation
 
 Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard
 
+`Solution` : [Insert Tableau Here]
 
+`All the codes` : (Notebook)[https://github.com/SanjayShetty01/KPMG-Data-Analytics-Virtual-Experience-Program/blob/main/KPMG.ipynb]
