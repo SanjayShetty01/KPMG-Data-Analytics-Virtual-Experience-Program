@@ -32,7 +32,7 @@ You decide to start the preliminary data exploration and identify ways to improv
 
 Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, please recommend which of these 1000 new customers should be targeted to drive the most value for the organisation. 
 
-`Solution`: [Notebook](https://github.com/SanjayShetty01/KPMG-Data-Analytics-Virtual-Experience-Program/blob/main/KPMG.ipynb)
+`Solution`: [Notebook](https://github.com/SanjayShetty01/KPMG-Data-Analytics-Virtual-Experience-Program/blob/main/Task-2/KPMG.ipynb)
 
 ### Task 3: Data Insights and Presentation
 
