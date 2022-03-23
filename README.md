@@ -32,12 +32,11 @@ You decide to start the preliminary data exploration and identify ways to improv
 
 Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, please recommend which of these 1000 new customers should be targeted to drive the most value for the organisation. 
 
-`Solution`: [insert .pptx file here]
+`Solution`: [Notebook](https://github.com/SanjayShetty01/KPMG-Data-Analytics-Virtual-Experience-Program/blob/main/KPMG.ipynb)
 
 ### Task 3: Data Insights and Presentation
 
 Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard
 
-`Solution` : [Insert Tableau Here]
+`Solution` : [Tableau Dashboard files](https://github.com/SanjayShetty01/KPMG-Data-Analytics-Virtual-Experience-Program/tree/main/Task-3)
 
-`All the codes` : [Notebook](https://github.com/SanjayShetty01/KPMG-Data-Analytics-Virtual-Experience-Program/blob/main/KPMG.ipynb)
